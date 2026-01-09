@@ -21,6 +21,7 @@ nav:
       - Introduction and Scope: foundations/01_introduction.md
       - MiChroM as an Energy Landscape Model: foundations/02_energy_landscape.md
       - The openMiChroM Abstraction Layer: foundations/03_abstraction_layer.md
+      - Foundations Notebook: notebooks/foundations_overview.ipynb
 
   - Part II — Installation and Verification:
       - Installation and Platform Configuration: installation/01_installation.md
